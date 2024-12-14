@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(27, 27, 27);
+    font-family: 'Courier New', Courier, monospace;
+}
+#game_title{
+    color: white;
+}
+button{
+    background-color: rgb(27, 27, 27);
+    box-shadow: none;
+    border: dashed;
+    border-color: rgb(27, 27, 27);;
+}
+button:hover{
+    cursor: pointer;
+}
+#mainbloc{
+    text-align: center;
+}
+#elorating{
+    margin-top: 2%;
+}
+video{
+    border-radius: 15px;
+}
+button:active{
+    transform: translateY(4px);
+}
+hr{
+    margin-top: 2%;
+    width: 95%;
+}
+#gameplay2{
+    margin-top: 3%;
+}
+#gameplay3{
+    margin-top: 3%;
+}
